@@ -1,2 +1,2 @@
 # Mangekyo
-A decentralized video sharing platform powered by blockchain and IPFS written in JS and Solidity
+A decentralized video sharing platform powered by Ethereum Blockchain and IPFS written in React and Solidity.
